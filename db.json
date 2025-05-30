@@ -1,6 +1,6 @@
 [
   {
-    name: 'org',
+    name: "org",
     label: 'Organization',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
     subGroups: [
